@@ -1,0 +1,9 @@
+pandapower
+pandas
+numpy
+matplotlib
+scikit-learn
+streamlit 
+joblib
+numba
+gradio
