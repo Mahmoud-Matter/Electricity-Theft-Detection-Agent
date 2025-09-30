@@ -3,7 +3,7 @@
 
 ## Overview
 
-A physics-inspired, machine learning-driven toolkit to detect electricity theft in low-voltage distribution grids. The system simulates realistic consumption, injects theft scenarios, and provides fully automated unsupervised anomaly detection—all visualized in an interactive dashboard.
+A physics-inspired, machine learning-driven agent to detect electricity theft in low-voltage distribution grids. The system simulates realistic consumption, injects theft scenarios, and provides fully automated unsupervised anomaly detection—all visualized in an interactive dashboard.
 
 ## Features
 
