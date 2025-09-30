@@ -1,4 +1,4 @@
-# Electricity Theft Detection System
+# Electricity Theft Detection Agent
 
 
 ## Overview
