@@ -53,7 +53,7 @@ python simulation_runner.py
 python app.py
 ```
 
-The web interface will be available at `http://localhost:7860`
+The web interface will be available at a URL like `http://localhost:7860`
 
 ## Project Structure
 
