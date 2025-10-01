@@ -40,9 +40,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. (Optional) Build grid and generate dataset. 
-
-This step is only required once to generate the dataset from scratch.Since the dataset is already included in this repository, you can skip this part.
+1. (Optional) Build grid and generate dataset.This step is only required once to generate the dataset from scratch.Since the dataset is already included in this repository, you can skip this part.
 
 ```bash
 python network_builder.py
