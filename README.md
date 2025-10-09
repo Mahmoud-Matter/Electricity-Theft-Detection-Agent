@@ -75,15 +75,7 @@ The web interface will be available at a URL like `http://localhost:7860`
 - Edit `data_generator.py` and `simulation_runner.py` to change the number of customers or simulation period
 - All output CSV files will be generated in the project root directory
 
-## Requirements
-
-- Python 3.10+
-- Required libraries (see `requirements.txt`):
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[MIT License](LICENSE)
